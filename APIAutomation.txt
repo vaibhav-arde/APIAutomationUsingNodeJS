@@ -66,6 +66,15 @@ HTTP Response Status Codes:
 3xx : (300:Moved Permanently, 302:Found, 303:See Other, 304:NotModified, 307:Temporory Redirect)
 4xx : (400:Bad request, 401:Unauthorised, 403:Forbidden, 404:Not Found, 405:Method Not Allowed, 406:Not Acceptable, 412:PreCondition Failed, 415:Unsupported Media types)
 
+===========================================================================================================
+
+Understanding PostMan:
+
+reqres.in
+
+Request need BaseURL and endpoint.
+
+===========================================================================================================
 
 
 
