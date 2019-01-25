@@ -1,0 +1,3 @@
+API stand for Application Programming Interface.
+It allows different applications to communicate and share data.
+Transfer is between the host application (server) and the consumer application (Client).
