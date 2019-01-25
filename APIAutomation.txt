@@ -1,3 +1,19 @@
 API stand for Application Programming Interface.
 It allows different applications to communicate and share data.
 Transfer is between the host application (server) and the consumer application (Client).
+To ensure quality and consistency the API process uses a number of protocols (like HTTP) and standards (REST).
+The transfer of resources between connected applications is achieved using calls like Get, Post, Put and Delete, and each results in status code which confirms the output of the operation.
+An authorization process is used to control who has accces to the API and can make request of it.
+
+WEB SERVICE API :
+A web service is a piece of a software, or a system, that provides access to its services via an address on a World Wide Web. This address is known as URI or URL.
+Key point is that webservice offers its information in a format that other application can understand and parse.
+WebService almost always involves communication over network and HTTP is the most commonly used protocol.
+
+WebService API are of two kinds:
+1. Simple Object Access Protocol (SOAP) and 
+2. Representational State Transfer (REST)
+
+=====================================================================================================
+
+REST API:
