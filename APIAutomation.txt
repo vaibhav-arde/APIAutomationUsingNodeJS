@@ -17,3 +17,18 @@ WebService API are of two kinds:
 =====================================================================================================
 
 REST API:
+REST is acronym for REpresentational State Transfer.
+REST applies a common defination and standard of API development for web based applications.
+It is an architectural style or pattern of development of resource-oriented web applications.
+REST architecture maps CRUD (Create, Read, Update, Delete) to get the set of operations supported by the web service using HTTP method (e.g. POST, GET, PUT, DELETE).
+REST mostly uses HTTP protocol for transport of data, although it can use any other protocol as well.
+REST permits different data formats such as Plain text, HTML, XML, JSON etc.
+
+REST VS SOAP:
+REST is just architectural style.
+SOAP is complete protocol
+REST is prefered now days just because of its simplicity, where as SOAP is more secure and complex.
+
+=======================================================================================================
+
+
