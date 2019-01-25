@@ -76,6 +76,24 @@ Request need BaseURL and endpoint.
 
 ===========================================================================================================
 
+API Testing:
+API testing is a type of software testing that involves testing Application Programming Interfaces (APIs)
+API testing involves testing API's directly (in isolation) and as a part of end-to-end transactions exercised dusring integration testing.
+API testing is performed on API's that the development team producesas well as API's that team consumes within their application.
+API testing is used to determine:
+1. Whether APIs return the correct response (in the expected format) for a broad range of feasible request,
+2. They react properly to edge cases such as failures and unexpected/extreme inputs,
+3. Deliver responses in an acceptable amount of time, and 
+4. Respond securely to potential security attacks.
+
+Types of API Testing:
+1. Unit Testing : Testing the functionality of individual operations.
+2. Functional Testing : Testing the functionality of broader scenarios, often using unit tests as building blocks for end-to-end tests. Includes test case definition, execution, validation and regression testing.
+3. Load Testing : Validating functionality and performance under load, often by reusing functional test cases. (tools : JMeter)
+4. RunTime Error Detection : Monitoring an application while execution of automated or manual test to expose problems such as race condition, exceptions and resource leaks.
+5. Security testing : Includes penetration testing and fuzz testing as well as validating authentication, encryption, and access control.
+
+
 
 
 
