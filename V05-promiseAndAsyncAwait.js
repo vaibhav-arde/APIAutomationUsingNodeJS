@@ -24,9 +24,11 @@ function three(){
 function four(){
     one();
     two();
+    twoP().then(function(){
+        three();
+    });
     twoC();
-    twoP();
-    three();
+    
 }
 four();
 console.log(`==========================================================`);
