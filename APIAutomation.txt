@@ -58,7 +58,7 @@ HTTP Response Status Codes:
     Catagory                    Description                 
 1xx : Informational     Communicates transfer protocol-level information
 2xx : Success           Indicates that clients request was accepted successfully 
-3xx : Redirectional     Indicates that client must take some additional action in order to complete their                          request.
+3xx : Redirectional     Indicates that client must take some additional action in order to complete their request.
 4xx : Client Error      This catogory of error status codes points the finger at client
 5xx : Server Error      The server takes responsibility for these error status codes.
         ----------------------------------------------------------
