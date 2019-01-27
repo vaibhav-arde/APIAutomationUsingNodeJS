@@ -92,7 +92,23 @@ Types of API Testing:
 3. Load Testing : Validating functionality and performance under load, often by reusing functional test cases. (tools : JMeter)
 4. RunTime Error Detection : Monitoring an application while execution of automated or manual test to expose problems such as race condition, exceptions and resource leaks.
 5. Security testing : Includes penetration testing and fuzz testing as well as validating authentication, encryption, and access control.
+========================================================================================================
 
+Mocha :
+npm install mocha --save
+Create a "test" folder in base project folder and and keep all testcase (.js) files in that.
+In package.json update as : 
+"scripts": {
+    "test": "mocha"
+  },
+To execute test : npm test
+
+Supertest :
+npm install supertest --save
+
+Should.js :
+should.js is an assertion liabrary.
+npm install should --save
 
 
 

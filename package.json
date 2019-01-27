@@ -4,7 +4,7 @@
   "description": "apiautomation",
   "main": "V07-mochaTest.js",
   "scripts": {
-    "test" :"mocha"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/vaibhav-arde/APIAutomationUsingNodeJS#readme",
   "dependencies": {
-    "mocha": "^5.2.0"
+    "mocha": "^5.2.0",
+    "should": "^13.2.3",
+    "supertest": "^3.4.2"
   },
   "devDependencies": {}
 }
