@@ -13,3 +13,4 @@ var SpideManStringify = JSON.stringify(SpiderManBIOJson);
 console.log(SpideManStringify);
 var SpiderManJSON = JSON.parse(SpideManStringify);
 console.log(SpiderManJSON);
+console.log(SpiderManJSON.name.fname);
