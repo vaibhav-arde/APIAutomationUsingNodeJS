@@ -1,4 +1,4 @@
-//When function is passed as a parameter to a function then it is calle as CallBack function.
+//When function is passed as a parameter to a function then it is called as CallBack function.
 function add(num1, num2){
     console.log(`Addition of ${num1} and ${num2} is ${num1+num2}.`);
     return num1 + num2;
