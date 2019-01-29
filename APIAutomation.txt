@@ -78,8 +78,8 @@ Request need BaseURL and endpoint.
 
 API Testing:
 API testing is a type of software testing that involves testing Application Programming Interfaces (APIs)
-API testing involves testing API's directly (in isolation) and as a part of end-to-end transactions exercised dusring integration testing.
-API testing is performed on API's that the development team producesas well as API's that team consumes within their application.
+API testing involves testing API's directly (in isolation) and as a part of end-to-end transactions exercised during integration testing.
+API testing is performed on API's that the development team produces as well as API's that team consumes within their application.
 API testing is used to determine:
 1. Whether APIs return the correct response (in the expected format) for a broad range of feasible request,
 2. They react properly to edge cases such as failures and unexpected/extreme inputs,
