@@ -5,7 +5,7 @@ const superTest = require('supertest');
 let baseUrl = superTest("https://reqres.in/");
 let listUserEndPoint = 'api/users?page=1';
 let createUserEndPoint = 'api/users';
-let updateUserEndPoint = 'api/users';
+let updateUserEndPoint = 'api/users/2';
 
 it.only('Update User', async function(){
     let res = await baseUrl.put(updateUserEndPoint)
