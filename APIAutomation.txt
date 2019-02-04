@@ -116,3 +116,4 @@ In package.json file we can add below to get extra time out:
 =========================================================================================================
 Google Wheather API:
 https://home.openweathermap.org/api_keys
+https://api.openweathermap.org/data/2.5/weather?q=London,uk&appid=6dbb9aadaca36966430d9ed74d7c75d2
