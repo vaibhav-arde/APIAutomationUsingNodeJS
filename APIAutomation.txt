@@ -113,3 +113,6 @@ npm install should --save
 In package.json file we can add below to get extra time out:
 "test": "mocha 'test/*.js'  --timeout 100000"
 
+=========================================================================================================
+Google Wheather API:
+https://home.openweathermap.org/api_keys
